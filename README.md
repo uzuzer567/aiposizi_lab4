@@ -1,6 +1,7 @@
 # Authors
 
-Stasko Valeriya, Morozov Alexander/
+Stasko Valeriya, Morozov Alexander.
+Group: 821703.
 
 # How to start server
 
